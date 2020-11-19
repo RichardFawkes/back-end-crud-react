@@ -3,7 +3,7 @@
 module.exports = {
     development: {
         database: {
-            host: 'dbsreact.ci3m3x5uzji8.us-east-2.rds.amazonaws.com',
+            host: 'dbreact.cwpa15q8hgk1.sa-east-1.rds.amazonaws.com',
             port: 3306,
             name: 'dbreact',
             dialect: 'mysql',
