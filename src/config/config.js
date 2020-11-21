@@ -7,8 +7,8 @@ module.exports = {
             port: 3306,
             name: 'dbreact',
             dialect: 'mysql',
-            user: 'admin',
-            password: '26040604'
+            user: 'root',
+            password: 'senha1234'
         }
     },
     production:{
